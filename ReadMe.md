@@ -1,6 +1,6 @@
-# ✊🏿 About Me:
+# ✊🏿 Quem sou eu:
 
-Olá, seja bem-vindo ao meu perfil do GitHub, meu nome é Caíque de Sousa Ferreira, sou Engenheiro Eletrônico e atuo como Engenheiro de Software Jr no Itaú Unibanco. Atualmente, estou cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.<br><br>Possuo conhecimentos em Python e C# para desenvolvimento back-end e habilidades na plataforma de computação em nuvem AWS. Realizo a análise e processamento ETL de Big Data com Python e SQL/NoSQL, utilizando os SGBDs SQLite, SQL Server, MySQL e MongoDB. Desenvolvo firmware para microcontroladores da família ATMEL (ATMEGA328) e PIC (18F4550/16F877A) utilizando as linguagens C/C++. Possuo conhecimentos avançados no pacote Office da Microsoft (Excel, Word e PowerPoint).
+Olá, seja bem-vindo ao meu perfil do GitHub, meu nome é Caíque de Sousa Ferreira, sou Engenheiro Eletrônico e atuo como Engenheiro de Software Jr no Itaú Unibanco. Atualmente, estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.<br><br>Possuo conhecimentos em Python e C# para desenvolvimento back-end e habilidades na plataforma de computação em nuvem AWS. Realizo a análise e processamento ETL de Big Data com Python e SQL/NoSQL, utilizando os SGBDs SQLite, SQL Server, MySQL e MongoDB. Desenvolvo firmware para microcontroladores da família ATMEL (ATMEGA328) e PIC (18F4550/16F877A) utilizando as linguagens C/C++. Possuo conhecimentos avançados no pacote Office da Microsoft (Excel, Word e PowerPoint).
 
 ## 🌐 Socials:
 
